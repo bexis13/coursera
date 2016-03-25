@@ -12,6 +12,7 @@ body{
 .container {
 	padding: 10px;
 	border: none;
+
 }
 
 h1{
@@ -39,6 +40,7 @@ h2{
  	height: auto;
  	position: relative;
 	overflow: auto;
+
  	
 
  	
@@ -80,6 +82,7 @@ h2{
 
 .row{
 	width: 100%;
+	margin-bottom: 25px;
 }
 
 
