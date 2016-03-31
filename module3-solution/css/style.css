@@ -73,13 +73,13 @@ section{
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
 	border: 1px solid black;
+	color: black;
 }
 
-.navbar-header button.navbar-toggle:hover, .navbar-header .icon-bar {
+/**.navbar-header button.navbar-toggle:focus, .navbar-header .icon-bar:focus {
 	border: 1px solid white;
-}
-
-
+	color: white;
+}**/
 
 .navbar-header button.navbar toggle{
 	clear: both;
