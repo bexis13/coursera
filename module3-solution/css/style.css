@@ -76,11 +76,6 @@ section{
 	color: black;
 }
 
-/**.navbar-header button.navbar-toggle:focus, .navbar-header .icon-bar:focus {
-	border: 1px solid white;
-	color: white;
-}**/
-
 .navbar-header button.navbar toggle{
 	clear: both;
 }
